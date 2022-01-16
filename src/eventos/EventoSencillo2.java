@@ -1,4 +1,4 @@
-package eventos;
+/*package eventos;
 
 import javax.swing.*;
 import java.awt.*;
@@ -64,5 +64,5 @@ class LaminaBotonesColores extends JPanel {
 		
 	}
 }
-
+*/
 
